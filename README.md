@@ -65,3 +65,4 @@ It connects students with tutors (including peers), offers **interactive learnin
 Make tutoring **affordable, accessible, and fun** for students of all levels.  
 
 Figma Link: https://www.figma.com/design/TvX5pGvKXlKUX9zDgVj5hs/Docere--Copy-?node-id=0-1&p=f&t=Gq5mHzWTWByJjxu8-0
+Build link: https://dbde3f4f6965433bae8c74aca31d6cd6-main.projects.builder.my/
