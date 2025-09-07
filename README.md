@@ -63,3 +63,5 @@ It connects students with tutors (including peers), offers **interactive learnin
 
 ## 🔮 Vision
 Make tutoring **affordable, accessible, and fun** for students of all levels.  
+
+Figma Link: https://www.figma.com/design/TvX5pGvKXlKUX9zDgVj5hs/Docere--Copy-?node-id=0-1&p=f&t=Gq5mHzWTWByJjxu8-0
